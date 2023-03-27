@@ -1,4 +1,4 @@
-# Imersão Alura Java_☕
+# Imersão Alura Java ☕
 
 - [x] Dia 1:
 
