@@ -11,6 +11,7 @@ public class App {
     public static final String ANSI_RESET = "\u001B[0m";
     public static final String ANSI_GREEN = "\u001B[32m";
     public static final String ANSI_BLUE = "\u001B[34m";
+    public static final String ANSI_YELLOW = "\u001B[33m";
     public static void main(String[] args) throws Exception {
         String url = "https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/TopMovies.json";
         URI adreess = URI.create(url);
@@ -31,9 +32,9 @@ public class App {
             
             String estrelha = "";
             for (int i = 0; i < rating; i++) {
-                    estrelha = estrelha + "\u2B50";
+                    estrelha = estrelha + "*";
                 }
-            System.out.println(ANSI_GREEN + "Rating: " + filme.get("imDbRating") + " " + estrelha + ANSI_RESET);
+            System.out.println(ANSI_GREEN + "Rating: " + rating + " " + ANSI_YELLOW + estrelha + ANSI_RESET );
         }
     }
 }
