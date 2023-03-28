@@ -20,7 +20,6 @@ public class App {
         var response = client.send(request, BodyHandlers.ofString());
         String body = response.body();
         
-        //extraer sólo los datos que me interesan
         var parser = new JsonParser();
         List<Map<String,String>> ListaFilmes = parser.parse(body);
         System.out.println(	"\u2B50");
