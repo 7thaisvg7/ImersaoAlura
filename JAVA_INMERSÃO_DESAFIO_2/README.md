@@ -8,3 +8,5 @@ foto otiginal: ImersaoAlura/JAVA_INMERSÃO_DESAFIO_2/imagens/original.jpg
  
  Resultado:
  endereço: ImersaoAlura/JAVA_INMERSÃO_DESAFIO_2/imagens/Resultado.png
+
+PD: Fizeram eu tirar selfie contra minha vontade, kkkkkkk
