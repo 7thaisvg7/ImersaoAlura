@@ -1,18 +1,11 @@
-## Getting Started
+# Imersão Alura Java ☕
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- Dia 3:
 
-## Folder Structure
+Gerar sticker com uma imagem obtida de uma API da NASA
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+ Resultado:
+ 
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/7thaisvg7/ImersaoAlura/main/212.JPG](https://github.com/7thaisvg7/ImersaoAlura/tree/main/JAVA_INMERSAO_DESAFIO_3/saida/Shaped Star.png)"/>
+</p>
